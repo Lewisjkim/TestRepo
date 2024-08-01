@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/LightningViewer">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer</file>
+
+  </qresource>
+</RCC>

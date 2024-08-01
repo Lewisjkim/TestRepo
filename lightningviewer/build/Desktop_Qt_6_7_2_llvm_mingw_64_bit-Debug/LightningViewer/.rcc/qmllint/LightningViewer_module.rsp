@@ -1,0 +1,10 @@
+-I
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug
+-I
+C:/Qt/6.7.2/llvm-mingw_64/./qml
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/.qt/rcc/qmake_LightningViewer.qrc
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/.qt/rcc/LightningViewer_raw_qml_0.qrc
+--module
+LightningViewer

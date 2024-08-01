@@ -1,0 +1,18 @@
+module LightningViewer
+linktarget LightningViewerplugin
+optional plugin LightningViewerplugin
+classname LightningViewerPlugin
+typeinfo LightningViewer.qmltypes
+prefer :/qt/qml/LightningViewer/
+ActionsLayer 1.0 ActionsLayer.qml
+DistanceTimeLayer 1.0 DistanceTimeLayer.qml
+LightningMapLayer 1.0 LightningMapLayer.qml
+LightningView 1.0 LightningView.qml
+singleton LightningViewConfig 1.0 LightningViewConfig.qml
+Main 1.0 Main.qml
+MapLayersDrawer 1.0 MapLayersDrawer.qml
+MapLayersItem 1.0 MapLayersItem.qml
+singleton MapType 1.0 MapType.qml
+MapView 1.0 MapView.qml
+SwitchMap 1.0 SwitchMap.qml
+

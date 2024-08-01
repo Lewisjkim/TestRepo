@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/qt/qml/LightningViewer/">
+    <file alias="ActionsLayer.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/ActionsLayer.qml</file>
+    <file alias="DistanceTimeLayer.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/DistanceTimeLayer.qml</file>
+    <file alias="LightningMapLayer.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/LightningMapLayer.qml</file>
+    <file alias="LightningView.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/LightningView.qml</file>
+    <file alias="LightningViewConfig.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/LightningViewConfig.qml</file>
+    <file alias="Main.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/Main.qml</file>
+    <file alias="MapLayersDrawer.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/MapLayersDrawer.qml</file>
+    <file alias="MapLayersItem.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/MapLayersItem.qml</file>
+    <file alias="MapType.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/MapType.qml</file>
+    <file alias="MapView.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/MapView.qml</file>
+    <file alias="SwitchMap.qml">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/SwitchMap.qml</file>
+    <file alias="icons/distance.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/distance.svg</file>
+    <file alias="icons/globe.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/globe.svg</file>
+    <file alias="icons/lightning-layer.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/lightning-layer.svg</file>
+    <file alias="icons/lightning-strike.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/lightning-strike.svg</file>
+    <file alias="icons/map-layers.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/map-layers.svg</file>
+    <file alias="icons/map.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/map.svg</file>
+    <file alias="icons/recenter.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/recenter.svg</file>
+    <file alias="icons/user-location.svg">C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewer/icons/user-location.svg</file>
+  </qresource>
+</RCC>
+

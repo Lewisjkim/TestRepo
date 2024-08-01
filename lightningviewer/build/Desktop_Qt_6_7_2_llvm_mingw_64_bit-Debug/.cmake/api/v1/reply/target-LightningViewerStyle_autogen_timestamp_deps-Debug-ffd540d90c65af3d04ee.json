@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"LightningViewerStyle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "LightningViewerStyle_tooling::@e288e7138e6cff0f4960"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "LightningViewerStyle_autogen_timestamp_deps::@e288e7138e6cff0f4960",
+	"isGeneratorProvided" : true,
+	"name" : "LightningViewerStyle_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "LightningViewerStyle",
+		"source" : "LightningViewerStyle"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

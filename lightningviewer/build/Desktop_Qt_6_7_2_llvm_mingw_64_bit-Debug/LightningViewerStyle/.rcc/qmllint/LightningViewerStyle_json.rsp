@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug
+-I
+C:/Qt/6.7.2/llvm-mingw_64/./qml
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/.qt/rcc/qmake_LightningViewerStyle.qrc
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/.qt/rcc/LightningViewerStyle_raw_qml_0.qrc
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewerStyle/Button.qml
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewerStyle/Config.qml
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewerStyle/RoundButton.qml
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/LightningViewerStyle/StyleImage.qml
+--json
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle_qmllint.json

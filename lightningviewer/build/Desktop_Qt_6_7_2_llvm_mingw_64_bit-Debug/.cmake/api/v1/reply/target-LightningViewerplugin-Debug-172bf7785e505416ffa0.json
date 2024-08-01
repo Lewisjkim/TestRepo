@@ -1,0 +1,615 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "LightningViewer/LightningViewerplugin.dll"
+		},
+		{
+			"path" : "LightningViewer/LightningViewerplugin.pdb"
+		}
+	],
+	"backtrace" : 6,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt6_add_qml_plugin",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"set_property",
+			"_qt_internal_find_third_party_dependencies",
+			"target_compile_definitions",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"LightningViewer/CMakeLists.txt",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/FindThreads.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 780,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 625,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 2043,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2451,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2659,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 2248,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 2244,
+				"parent" : 3
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 9,
+				"parent" : 9
+			},
+			{
+				"file" : 9,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 169,
+				"parent" : 11
+			},
+			{
+				"file" : 8,
+				"parent" : 12
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 43,
+				"parent" : 13
+			},
+			{
+				"file" : 7,
+				"parent" : 14
+			},
+			{
+				"command" : 11,
+				"file" : 7,
+				"line" : 42,
+				"parent" : 15
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 111,
+				"parent" : 16
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 17
+			},
+			{
+				"file" : 4,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 56,
+				"parent" : 19
+			},
+			{
+				"file" : 3,
+				"parent" : 20
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 61,
+				"parent" : 21
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 44,
+				"parent" : 19
+			},
+			{
+				"file" : 13,
+				"parent" : 23
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 42,
+				"parent" : 24
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 111,
+				"parent" : 25
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 26
+			},
+			{
+				"file" : 12,
+				"parent" : 27
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 60,
+				"parent" : 28
+			},
+			{
+				"file" : 11,
+				"parent" : 29
+			},
+			{
+				"command" : 7,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 30
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 111,
+				"parent" : 16
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 32
+			},
+			{
+				"file" : 15,
+				"parent" : 33
+			},
+			{
+				"command" : 8,
+				"file" : 15,
+				"line" : 62,
+				"parent" : 34
+			},
+			{
+				"file" : 14,
+				"parent" : 35
+			},
+			{
+				"command" : 7,
+				"file" : 14,
+				"line" : 61,
+				"parent" : 36
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 124,
+				"parent" : 11
+			},
+			{
+				"file" : 17,
+				"parent" : 38
+			},
+			{
+				"command" : 13,
+				"file" : 17,
+				"line" : 27,
+				"parent" : 39
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 36,
+				"parent" : 40
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 76,
+				"parent" : 41
+			},
+			{
+				"file" : 16,
+				"parent" : 42
+			},
+			{
+				"command" : 12,
+				"file" : 16,
+				"line" : 238,
+				"parent" : 43
+			},
+			{
+				"command" : 8,
+				"file" : 15,
+				"line" : 57,
+				"parent" : 34
+			},
+			{
+				"file" : 18,
+				"parent" : 45
+			},
+			{
+				"command" : 7,
+				"file" : 18,
+				"line" : 61,
+				"parent" : 46
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 55,
+				"parent" : 28
+			},
+			{
+				"file" : 19,
+				"parent" : 48
+			},
+			{
+				"command" : 7,
+				"file" : 19,
+				"line" : 61,
+				"parent" : 49
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 2518,
+				"parent" : 4
+			},
+			{
+				"command" : 15,
+				"file" : 1,
+				"line" : 2237,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fansi-escape-codes -fcolor-diagnostics"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-pthread"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "LightningViewerplugin_EXPORTS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QMLBUILTINS_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "WINVER=0x0A00"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_WIN32_WINNT=0x0A00"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewerplugin_autogen/include"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/mkspecs/win32-clang-g++"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 8,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.7.2/llvm-mingw_64/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "LightningViewerplugin_autogen_timestamp_deps::@e3053ce7f437b6520816"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "LightningViewerplugin_autogen::@e3053ce7f437b6520816"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "LightningViewer::@e3053ce7f437b6520816"
+		}
+	],
+	"id" : "LightningViewerplugin::@e3053ce7f437b6520816",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "LightningViewer\\libLightningViewer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "C:\\Qt\\6.7.2\\llvm-mingw_64\\lib\\libQt6Qml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "C:\\Qt\\6.7.2\\llvm-mingw_64\\lib\\libQt6QmlBuiltins.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "C:\\Qt\\6.7.2\\llvm-mingw_64\\lib\\libQt6Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "C:\\Qt\\6.7.2\\llvm-mingw_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-pthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "LightningViewerplugin",
+	"nameOnDisk" : "LightningViewerplugin.dll",
+	"paths" : 
+	{
+		"build" : "LightningViewer",
+		"source" : "LightningViewer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				2
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewerplugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 52,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewerplugin_LightningViewerPlugin.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewerplugin_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewerplugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

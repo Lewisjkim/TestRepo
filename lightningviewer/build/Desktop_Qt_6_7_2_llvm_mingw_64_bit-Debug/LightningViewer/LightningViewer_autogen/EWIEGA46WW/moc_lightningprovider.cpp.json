@@ -1,0 +1,63 @@
+{
+    "classes": [
+        {
+            "className": "LightningProvider",
+            "object": true,
+            "qualifiedClassName": "LightningProvider",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "LightningItemData"
+                        }
+                    ],
+                    "name": "dataReady",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "onSocketMessageReceived",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "onSocketConnected",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "onTimerTimeout",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "requestSocket",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "openSocket",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "lightningprovider.h",
+    "outputRevision": 68
+}

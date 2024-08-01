@@ -1,0 +1,8 @@
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/.qt/rcc/qmake_LightningViewerStyle.qrc
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/.qt/rcc/LightningViewerStyle_raw_qml_0.qrc
+/qt/qml/LightningViewerStyle/Button.qml
+/qt/qml/LightningViewerStyle/Config.qml
+/qt/qml/LightningViewerStyle/RoundButton.qml
+/qt/qml/LightningViewerStyle/StyleImage.qml

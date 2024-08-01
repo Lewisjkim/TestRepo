@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"LightningViewerStyle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "LightningViewerStyleplugin_autogen_timestamp_deps::@e288e7138e6cff0f4960"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "LightningViewerStyleplugin_autogen::@e288e7138e6cff0f4960",
+	"isGeneratorProvided" : true,
+	"name" : "LightningViewerStyleplugin_autogen",
+	"paths" : 
+	{
+		"build" : "LightningViewerStyle",
+		"source" : "LightningViewerStyle"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/CMakeFiles/LightningViewerStyleplugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/CMakeFiles/LightningViewerStyleplugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/LightningViewerStyleplugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,15 @@
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/.qt/rcc/qmake_LightningViewer.qrc
+--resource
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/.qt/rcc/LightningViewer_raw_qml_0.qrc
+/qt/qml/LightningViewer/ActionsLayer.qml
+/qt/qml/LightningViewer/DistanceTimeLayer.qml
+/qt/qml/LightningViewer/LightningMapLayer.qml
+/qt/qml/LightningViewer/LightningView.qml
+/qt/qml/LightningViewer/LightningViewConfig.qml
+/qt/qml/LightningViewer/Main.qml
+/qt/qml/LightningViewer/MapLayersDrawer.qml
+/qt/qml/LightningViewer/MapLayersItem.qml
+/qt/qml/LightningViewer/MapType.qml
+/qt/qml/LightningViewer/MapView.qml
+/qt/qml/LightningViewer/SwitchMap.qml

@@ -1,0 +1,11 @@
+module LightningViewerStyle
+linktarget LightningViewerStyleplugin
+optional plugin LightningViewerStyleplugin
+classname LightningViewerStylePlugin
+typeinfo LightningViewerStyle.qmltypes
+prefer :/qt/qml/LightningViewerStyle/
+Button 254.0 Button.qml
+singleton Config 254.0 Config.qml
+RoundButton 254.0 RoundButton.qml
+StyleImage 254.0 StyleImage.qml
+

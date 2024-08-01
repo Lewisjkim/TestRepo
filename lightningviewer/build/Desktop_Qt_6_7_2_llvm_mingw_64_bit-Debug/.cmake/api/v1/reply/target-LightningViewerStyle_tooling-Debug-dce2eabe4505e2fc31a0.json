@@ -1,0 +1,1491 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.7.2/llvm-mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"LightningViewerStyle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 780,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2750,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2753,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "LightningViewerStyle_tooling::@e288e7138e6cff0f4960",
+	"name" : "LightningViewerStyle_tooling",
+	"paths" : 
+	{
+		"build" : "LightningViewerStyle",
+		"source" : "LightningViewerStyle"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/Button.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/Config.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/RoundButton.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/StyleImage.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-disabled.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-disabled@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-hovered.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-pressed.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-pressed@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-hovered@2x.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/Button.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/Config.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/RoundButton.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/StyleImage.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/button-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/flatbutton-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/dark/images/roundbutton-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-disabled.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-checked-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/button-background-disabled@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-checked-hovered.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-pressed.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-checked-pressed@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/flatbutton-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/light/images/roundbutton-background-hovered@2x.png.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

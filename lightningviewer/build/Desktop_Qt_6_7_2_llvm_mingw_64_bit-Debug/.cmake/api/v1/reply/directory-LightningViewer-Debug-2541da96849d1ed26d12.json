@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"LightningViewer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/LightningViewer",
+			"paths" : 
+			[
+				"LightningViewer.dll"
+			],
+			"targetId" : "LightningViewer::@e3053ce7f437b6520816",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/LightningViewer",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/qmldir"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "LightningViewer",
+		"source" : "LightningViewer"
+	}
+}

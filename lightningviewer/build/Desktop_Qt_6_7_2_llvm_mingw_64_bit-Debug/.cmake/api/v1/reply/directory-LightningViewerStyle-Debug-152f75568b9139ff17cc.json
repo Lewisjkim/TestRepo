@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"LightningViewerStyle/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 126,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 130,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/LightningViewerStyle",
+			"paths" : 
+			[
+				"LightningViewerStyle.dll"
+			],
+			"targetId" : "LightningViewerStyle::@e288e7138e6cff0f4960",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/LightningViewerStyle",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewerStyle/qmldir"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "LightningViewerStyle",
+		"source" : "LightningViewerStyle"
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "LightningItemModel",
+            "object": true,
+            "qualifiedClassName": "LightningItemModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "lightningitemmodel.h",
+    "outputRevision": 68
+}

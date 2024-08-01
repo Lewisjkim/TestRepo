@@ -1,0 +1,3 @@
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewer_autogen/include/../EWIEGA46WW/moc_controller.cpp.json
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewer_autogen/include/../EWIEGA46WW/moc_lightningitemmodel.cpp.json
+C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/LightningViewer/LightningViewer_autogen/include/../EWIEGA46WW/moc_lightningprovider.cpp.json

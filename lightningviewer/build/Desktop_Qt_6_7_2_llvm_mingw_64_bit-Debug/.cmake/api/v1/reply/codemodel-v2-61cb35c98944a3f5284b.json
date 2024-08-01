@@ -1,0 +1,393 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c7da8de3386abdfecc1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "LightningViewer",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-LightningViewer-Debug-2541da96849d1ed26d12.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "LightningViewer",
+					"targetIndexes" : 
+					[
+						0,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				},
+				{
+					"build" : "LightningViewerStyle",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-LightningViewerStyle-Debug-152f75568b9139ff17cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "LightningViewerStyle",
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LightningViewerExample",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "LightningViewer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "LightningViewerStyle",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer-Debug-ec39621f2c8444a99afe.json",
+					"name" : "LightningViewer",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightningViewerExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightningViewerExample-Debug-925e31546019edab5fe0.json",
+					"name" : "LightningViewerExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightningViewerExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightningViewerExample_autogen-Debug-2b8f4f3588ff0ca9ffb3.json",
+					"name" : "LightningViewerExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightningViewerExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightningViewerExample_autogen_timestamp_deps-Debug-7c3a89cf2d4d46eba5bf.json",
+					"name" : "LightningViewerExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightningViewerExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightningViewerExample_qmlimportscan-Debug-358e312151a875578103.json",
+					"name" : "LightningViewerExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle-Debug-dca768517e2a9e9845f8.json",
+					"name" : "LightningViewerStyle",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_autogen::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_autogen-Debug-38bb153735d92e70d05a.json",
+					"name" : "LightningViewerStyle_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_autogen_timestamp_deps::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_autogen_timestamp_deps-Debug-ffd540d90c65af3d04ee.json",
+					"name" : "LightningViewerStyle_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_qmllint::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_qmllint-Debug-14b2c9e9708e32373ad8.json",
+					"name" : "LightningViewerStyle_qmllint",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_qmllint_json::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_qmllint_json-Debug-b1cb7c421aad4814f13c.json",
+					"name" : "LightningViewerStyle_qmllint_json",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_qmllint_module::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_qmllint_module-Debug-a3fa96de83be4798ab20.json",
+					"name" : "LightningViewerStyle_qmllint_module",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_qmltyperegistration::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_qmltyperegistration-Debug-b7cf7f073aa4220f4982.json",
+					"name" : "LightningViewerStyle_qmltyperegistration",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyle_tooling::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyle_tooling-Debug-dce2eabe4505e2fc31a0.json",
+					"name" : "LightningViewerStyle_tooling",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyleplugin::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyleplugin-Debug-abc5ce309966f1cf1020.json",
+					"name" : "LightningViewerStyleplugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyleplugin_autogen::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyleplugin_autogen-Debug-99333a18b8f0ae1e232c.json",
+					"name" : "LightningViewerStyleplugin_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "LightningViewerStyleplugin_autogen_timestamp_deps::@e288e7138e6cff0f4960",
+					"jsonFile" : "target-LightningViewerStyleplugin_autogen_timestamp_deps-Debug-2312fb6a9e65857e1837.json",
+					"name" : "LightningViewerStyleplugin_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_autogen::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_autogen-Debug-af914ff16cc4ae08fd09.json",
+					"name" : "LightningViewer_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_autogen_timestamp_deps::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_autogen_timestamp_deps-Debug-431ee8aca750b8aba72f.json",
+					"name" : "LightningViewer_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_qmllint::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_qmllint-Debug-56ddf08c853cd805a077.json",
+					"name" : "LightningViewer_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_qmllint_json::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_qmllint_json-Debug-74ee82b5ec279fb8495e.json",
+					"name" : "LightningViewer_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_qmllint_module::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_qmllint_module-Debug-31e2188922fc7903cbc0.json",
+					"name" : "LightningViewer_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_qmltyperegistration::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_qmltyperegistration-Debug-f388432636c990fd990c.json",
+					"name" : "LightningViewer_qmltyperegistration",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewer_tooling::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewer_tooling-Debug-3da320da66918b5f9562.json",
+					"name" : "LightningViewer_tooling",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewerplugin::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewerplugin-Debug-172bf7785e505416ffa0.json",
+					"name" : "LightningViewerplugin",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewerplugin_autogen::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewerplugin_autogen-Debug-bfc588de5fda95e5bc5b.json",
+					"name" : "LightningViewerplugin_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LightningViewerplugin_autogen_timestamp_deps::@e3053ce7f437b6520816",
+					"jsonFile" : "target-LightningViewerplugin_autogen_timestamp_deps-Debug-f83e31bcb6aed99799be.json",
+					"name" : "LightningViewerplugin_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint::@e3053ce7f437b6520816",
+					"jsonFile" : "target-all_qmllint-Debug-82285e7bab69f973ee70.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_json::@e3053ce7f437b6520816",
+					"jsonFile" : "target-all_qmllint_json-Debug-14555683c38caaa1a693.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_module::@e3053ce7f437b6520816",
+					"jsonFile" : "target-all_qmllint_module-Debug-b242bb3424ae90da308f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmltyperegistrations::@e3053ce7f437b6520816",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-00b992a3e9c748585968.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qt_internal_plugins::@e3053ce7f437b6520816",
+					"jsonFile" : "target-qt_internal_plugins-Debug-1cb8ba7f80067face33c.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.7.2/demos/lightningviewer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
