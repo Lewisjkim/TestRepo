@@ -19,7 +19,7 @@ Item {
     MapView {
         id: mapView
         anchors.fill: parent
-        zoomLevel: 5
+        zoomLevel: 4//5
         mapType: actionsLayer.mapType
         lightningLayerVisible: actionsLayer.lightningLayerVisible
         distanceLayerVisible: locationAllowed && actionsLayer.distanceLayerVisible
